@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Disable Dynamic Favicon
 // @namespace    http://benjaminoakes.com/
-// @version      0.3
+// @version      0.4
 // @description  No longer show a new message indicator
 // @author       Benjamin Oakes
 // @match        https://*.slack.com/*
